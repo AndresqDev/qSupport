@@ -1,0 +1,29 @@
+#Placeholders:
+#Lang > %player%, %cooldown%, %supported%
+#Commands > %player%, %supported%
+slots_row_size: 3
+inventory_name: "&aSupport menu."
+default_lore:
+  - "&eExample lore!"
+  - "&ePlease add more lines!"
+
+lang:
+  cooldown_error: "&cYou are un cooldown: %cooldown%"
+  support_use: "&bThanks for support! Att: %supported%"
+
+supports:
+  Test:
+    slot: 12
+    head: "Notch"
+    display_name: "&bTest Support!"
+    cooldown: 0 #Cooldown in minutes, 0 = Null/None
+    commands:
+      - "/broadcast %player% Is Notch!"
+  QMan:
+    slot: 14
+    head: "FixedStorm"
+    display_name: "&bQMan Support!"
+    cooldown: 2
+    commands:
+      - "/broadcast https://github.com/AndresqDev <3!"
+      - "/minecraft:give @a diamond 1"
