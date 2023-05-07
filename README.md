@@ -4,7 +4,7 @@
 ## Un plugin simple y optimizado para no tener que depender de otros plugins.
 
  - [Spigot Download]()
- - [Mi Discord server](https://discord.gg/jr4A3y3nzq)
+ - [Mi Discord Server](https://discord.gg/jr4A3y3nzq)
  - [Mi Pagina De Github](https://github.com/AndresqDev)
 
 
@@ -26,7 +26,7 @@ Este proyecto esta protegido y cualquier venta de un proyecto opensrc propio de 
 - Cooldown system (Sin usar el scheduler de bukkit) + Opcional.
 - No se crean internamente objetos basura x ejecucion de comando.
 - OpenSRC y de libre uso excepto venta.
-
+|
 - Configurable.
 - Soporta heads.
 - Alta Compatibilidad.
@@ -41,5 +41,5 @@ Este proyecto esta protegido y cualquier venta de un proyecto opensrc propio de 
 
 ## Screenshots
 Example use:
-![App Screenshot]([https://i.ibb.co/CP4H4mW/example.png](https://media.discordapp.net/attachments/1066599943378325525/1096126328144679082/image.png))
+![App Screenshot]([https://cdn.discordapp.com/attachments/1066599943378325525/1096126328144679082/image.png])
 
