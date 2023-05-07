@@ -26,7 +26,7 @@ Este proyecto esta protegido y cualquier venta de un proyecto opensrc propio de 
 - Cooldown system (Sin usar el scheduler de bukkit) + Opcional.
 - No se crean internamente objetos basura x ejecucion de comando.
 - OpenSRC y de libre uso excepto venta.
-|
+- ------------------------------------------
 - Configurable.
 - Soporta heads.
 - Alta Compatibilidad.
@@ -41,5 +41,5 @@ Este proyecto esta protegido y cualquier venta de un proyecto opensrc propio de 
 
 ## Screenshots
 Example use:
-![App Screenshot]([https://cdn.discordapp.com/attachments/1066599943378325525/1096126328144679082/image.png])
+![App Screenshot](https://cdn.discordapp.com/attachments/1066599943378325525/1096126328144679082/image.png)
 
