@@ -3,7 +3,7 @@
 
 ## Un plugin simple y optimizado para no tener que depender de otros plugins.
 
- - [Spigot Download]()
+ - [Spigot Download](https://www.spigotmc.org/resources/qsupport.109692/)
  - [Mi Discord Server](https://discord.gg/jr4A3y3nzq)
  - [Mi Pagina De Github](https://github.com/AndresqDev)
 
