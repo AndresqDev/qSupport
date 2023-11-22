@@ -1,10 +1,9 @@
 # qSupport | /support & /redeem
 
 
-## Un plugin simple y optimizado para no tener que depender de otros plugins.
+## Un plugin simple y optimizado para no tener que depender de otros plugins para esta tarea.
 
  - [Spigot Download](https://www.spigotmc.org/resources/qsupport.109692/)
- - [Mi Discord Server](https://discord.gg/jr4A3y3nzq)
  - [Mi Pagina De Github](https://github.com/AndresqDev)
 
 
@@ -15,7 +14,7 @@
 
 ## License
 
-Este proyecto esta protegido y cualquier venta de un proyecto opensrc propio de mi github derivara a un reporte en el sitio donde se venda el proyecto ya que este proyecto esta protegido sobre la licencia GPLv3.
+Este proyecto esta protegido por GPLv3.
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
@@ -25,7 +24,6 @@ Este proyecto esta protegido y cualquier venta de un proyecto opensrc propio de 
 - Orientado a objetos con un uso extensivo de métodos estaticos.
 - Cooldown system (Sin usar el scheduler de bukkit) + Opcional.
 - No se crean internamente objetos basura x ejecucion de comando.
-- OpenSRC y de libre uso excepto venta.
 - ------------------------------------------
 - Configurable.
 - Soporta heads.
